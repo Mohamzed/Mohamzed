@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
+- Current Projects: Boxing analyst website
 
 
 <!---
